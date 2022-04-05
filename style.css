@@ -10,6 +10,9 @@ body {
 .cotainer {
   display: flex;
   gap: 1rem;
+  justify-content: center;
+  align-items: center;
+  padding: 3rem;
   flex-wrap: wrap;
 }
 .main-cotainer {
